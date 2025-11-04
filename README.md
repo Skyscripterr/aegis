@@ -52,7 +52,9 @@ pip install -r requirements.txt
 python -m app.main
 
 ## 🎥 Demo
-https://github.com/Skyscripterr/Aegis-UAV-Geofencing/blob/main/1000446383.gif
+<p align="left">
+  <img src="1000446383.gif" width="200" height="200" alt="Lady Min identity">
+</p>
 
 ## 🧩 Future Enhancements
 - 🛰️ ROS2 / MAVLink integration for live UAV data
