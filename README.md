@@ -50,7 +50,9 @@ pip install -r requirements.txt
 
 # 3. Run simulation
 python -m app.main
-🎥 Demo
+
+## 🎥 Demo
+https://github.com/Skyscripterr/Aegis-UAV-Geofencing/blob/main/1000446383.gif
 
 ## 🧩 Future Enhancements
 - 🛰️ ROS2 / MAVLink integration for live UAV data
