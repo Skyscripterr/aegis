@@ -1,9 +1,3 @@
-shapely
-pandas
 matplotlib
-fastapi
-uvicorn[standard]
-pyproj
-pydantic
 python-dotenv
 pytest

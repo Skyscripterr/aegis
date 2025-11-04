@@ -13,10 +13,3 @@ def point_in_polygon(point, polygon):
                 inside = not inside
 
     return "Violation" if inside else "Safe"
-
-
-def check_path(waypoints, polygon):
-    results = []
-    for point in waypoints:
-        results.append((point, point_in_polygon(point, polygon)))
-    return results
